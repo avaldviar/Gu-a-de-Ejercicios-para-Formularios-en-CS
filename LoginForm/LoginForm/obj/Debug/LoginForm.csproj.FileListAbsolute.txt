@@ -1,0 +1,13 @@
+C:\Users\gemel\Documents\Guía de Ejercicios para Formularios en CS\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\gemel\Documents\Guía de Ejercicios para Formularios en CS\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\gemel\Documents\Guía de Ejercicios para Formularios en CS\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\gemel\Documents\Guía de Ejercicios para Formularios en CS\LoginForm\LoginForm\bin\Debug\MetroFramework.dll
+C:\Users\gemel\Documents\Guía de Ejercicios para Formularios en CS\LoginForm\LoginForm\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\gemel\Documents\Guía de Ejercicios para Formularios en CS\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.AssemblyReference.cache
+C:\Users\gemel\Documents\Guía de Ejercicios para Formularios en CS\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+C:\Users\gemel\Documents\Guía de Ejercicios para Formularios en CS\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\gemel\Documents\Guía de Ejercicios para Formularios en CS\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\gemel\Documents\Guía de Ejercicios para Formularios en CS\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\gemel\Documents\Guía de Ejercicios para Formularios en CS\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.Up2Date
+C:\Users\gemel\Documents\Guía de Ejercicios para Formularios en CS\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\gemel\Documents\Guía de Ejercicios para Formularios en CS\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
